@@ -10,5 +10,6 @@ print ("Media: ", media)
 print ("Desvio Padrão: {:.2f}".format(desvio))
 print ("Variancia: {:.2f}".format(variancia))
 
+'''teste'''
 
     
