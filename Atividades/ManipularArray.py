@@ -16,7 +16,7 @@ divide2 = (arr1 %2 == 0) # cada elemento do array é divido ´pr 2
 print ("Divisão de itens",divide2) #DEVOLVE BOOLEAN
 
 
-print ('=========== AULA 3====================================')
+print ('=========== AULA 3==============================')
 
 arr2 = dsa.array([1,2,3,4,5,6])
 print ("Shape do arry",arr2.shape)
