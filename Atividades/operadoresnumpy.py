@@ -1,10 +1,10 @@
 import numpy as np
 
-'''
+
 array1= np.arange(1,10)
 print (np.sum (array1))
 print (np.prod (array1))
-'''
+
 '''
 vet1 = np.array([1,2,3])
 vet2 = np.array([3,4,5])
